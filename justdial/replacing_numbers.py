@@ -1,0 +1,20 @@
+import pandas as pd
+
+restaurant_details_df = pd.read_csv('restaurant_unformatted.csv')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-dc', "'+")
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-ba', '-')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-hg', ')')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-fe', '(')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-acb', '0')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-yz', '1')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-wx', '2')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-vu', '3')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-ts', '4')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-rq', '5')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-po', '6')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-nm', '7')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-lk', '8')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace('mobilesv icon-ji', '9')
+restaurant_details_df["Contact Number"] = restaurant_details_df["Contact Number"].str.replace(',', '')
+
+restaurant_details_df.to_csv('Restaurant_details.csv')
