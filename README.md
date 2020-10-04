@@ -1,4 +1,4 @@
-# Dial-Scraper
+# Just-Dial-Scraper
 #### Step #1
 Create an environment for scraping using Python. You can use whichever environment manager you prefer. 
 To create a conda environment, use `conda create --name scrape`. After creating the environment, activate it by typing `conda activate scrape`.
