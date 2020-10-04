@@ -15,7 +15,7 @@ Open Just-Dial-Scraper/product_scraper.py with a text editor. Replace the copied
 Run the following commands:
 1. `cd Just-Dial-Scraper/justdial`
 2. `scrapy crawl justdial_spider -o restaurant_unformatted.csv`
-It will generate an restaurant_unformatted.csv file
+It will generate a restaurant_unformatted.csv file
 
 2. `python Just-Dial-Scraper/replacing_numbers.py`
 This will create a Restaurant_details.csv file where the extracted data is present of 500 records.
