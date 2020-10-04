@@ -1,0 +1,501 @@
+,Restaurant Name,Ratings,Address,Contact Number
+0,Bhairodev Food Corner,3.5,"Shop No-J-33, Lajpat Nagar 2, Delhi - 110024",07947228700
+1,Radhey Krishna Cholay Bhatu..,4.0,"289, A.G.C.R Enclave, Karkardooma, Delhi - 110092, Near Easy Day",07947213993
+2,Singlas,4.1,"50 N.W.A, Club Road, Punjabi Bagh, Delhi - 110026",07947229511
+3,Apni Rasoi,3.9,"G 7/188, 16-17 Dividing Road, Rohini Sector 16, Delhi - 110089",'+(91)-9152597215
+4,Happy Tummy,3.9,"G-8,9,10 Plot No.1 United Plaza, Karkardooma, Delhi - 110092",07947225912
+5,Papa Veg Chinese Food,4.1,"Shop Number 15, A 2, Dda Market, Paschim Vihar, Delhi - 110063, Near Indraprastha World School",'+(91)-8447331396
+6,Shanus The Food Shop,3.9,"Shop Number 3, C 8 Dda Market, Keshav Puram, Delhi - 110035, Near Keshav Puram Metro Station",07947219587
+7,Apki Rasoai,4.0,"B-84 Dda Market C Block, East Of Kailash, Delhi - 110065",07947238311
+8,New Punjabi Dhaba & Caterer..,4.1,"Number Wz 1593, Main Market, Gali Punjabi Dhabe Wali, Rani Bagh, Delhi - 110034",07947212997
+9,Madan Sweets & Restaurant,4.1,"Third K 23, Rakesh Marg, Nehru Nagar, Delhi - 110065",07947212173
+10,Anand Vaishno Dhaba,4.0,"C-81/3, Main Wazirabad Road, Bhajan Pura, Delhi - 110053, Near Bhajanpura Bus Stand",'+(91)-8586829402
+11,The Sanjha Chulha Unique Ta..,4.9,"Shop No-6 WZ-55, Jawala Heri Market, Paschim Vihar, Delhi - 110063, Near S.B.I ATM",07947239918
+12,Swami Ji Shakti Sagar,4.2,"Rz- 132,, Rajapuri Road, Uttam Nagar, Delhi - 110059, Near Sunil Dairy, Santosh Park",07947219131
+13,Apni Rasoi,4.0,"A 2 Ganesh Nagar Nr Mother Dairy, Ganesh Nagar, Delhi - 110092",'+(91)-8860522701
+14,Raj Take Away & Family Rest..,4.5,"Shop No 1, Main Matiala Road, Matiala, Delhi - 110059, Near Hari Krishna Grand Banquet",07947227437
+15,Foodie House,3.8,"Shop No G 3 Vikas Surya Plaza, DC CHOWK, Rohini Sector 9, Delhi - 110085, Near Axis Bank",07947231949
+16,Chacha Chaudhary Express Bu..,4.7,"857 Ground Floor, Main Road, Mukherjee Nagar, Delhi - 110009, Near Munafa Mart",07947239344
+17,Kesar Pure Veg,4.1,"G-3, Aggarwal Chamber, Sainik Vihar-Pitampura, Delhi - 110034, Opposite Keshav Mahavidyalaya",'+(91)-011-45065500
+18,Radiant Restaurant,3.8,"Shop Number C- 38, Milap Nagar Road, Uttam Nagar, Delhi - 110059, Near Uttam Nagar East Metro Station",'+(91)-9870494948
+19,Punjabi Angithi,4.5,"B20, Metro Station, Sector 16, Sector 16 , Noida, Noida - 201301, Near Sector 16",07947230664
+20,BRYC Cafe & Restaurant,4.1,"Shop No: 41, Saini Mahoola, Najafgarh, Delhi - 110043, Opposite Health Centre",'+(91)-8448365873
+21,Punjabi Angithi,2.3,"kitchen block no 6 Nathupur Dlf Ph 3, Nathupur, DLF Gurgaon, Gurgaon - 122002",07947238052
+22,Hotspot Express,4.8,"Shop 4a , Devika Skypers, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017, Near Vvip",07947239579
+23,Kc Desi,4.3,"C-4F/246 , Upper Ground Floor, Janakpuri, delhi - 110058, Near Maharaja Surajmal Institute Of Pharmacy & Tech",07947233718
+24,Karnataka Restaurant,4.1,"60/5, Yusuf Sarai-green Park, Delhi - 110016, Opposite Gurudwara, Near Green Park Metro Station",07947214855
+25,Shri Krishna Restaurant,3.9,"26 B/2, D B Gupta Road, Anand Parbat, Delhi - 110005, Near Hanuman Mandir",'+(91)-11-28716748
+26,Rudrapriy Restaurant  Roof ..,4.0,"PK- A-2, Sector 122, Noida - 201307",07947230127
+27,Vaishnav Dhabha,4.3,"102/B, Mathura Road, Ashram, Delhi - 110014, Near Ashram Chowk",'+(91)-9999167378
+28,The Koolcha Station,4.7,"Shop No-12,A-4 Block DDA Gol Market, Paschim Vihar, Delhi - 110063, Near Pashim Vihar East Metro Station",'+(91)-11-66103632
+29,Punjabi Angithi,4.1,"Shop No, 32-22, A-4 DDA Market, Paschim Vihar, Delhi - 110063, Near Balaji Action Hospital & Saakshara Appartment",07947219981
+30,Shudh Annapurna,3.9,"T-2506, Opp 7 Naiwala, Karol Bagh, Delhi - 110005, Ilahi Bux Road",07947210255
+31,New Sanjhi Rasoi,4.0,"Shop No-23, Palam Dabri Road, Mahavir Enclave, Delhi - 110045, Chaudhary Harphool Singh Market",07947212811
+32,Shiv Indian & Chinese Cuisi..,4.0,"B 39, Kalkaji, Delhi - 110019, Near HDFC Bank",07947218447
+33,Food Sixteen,4.1,"Plot No-A-16, Gtk Road, Adarsh Nagar, Delhi - 110033, Near Adarsh Nagar Metro Station",07947215937
+34,La Taj Hospitality Services,4.0,"Scf-151, ,Huda Shopping Complex, Main Market, Faridabad Sector 37, Faridabad - 121001",'+(91)-129-4004355
+35,Rai Singh Amritsari Kulcha,4.4,"Shop 59 & 60, B Block, MSP Mall, Dsidc, Narela Industrial Area, Delhi - 110040",'+(91)-7419333555
+36,Punjabi Angithi,4.2,"Shop No 31 & 32, DDA Market, Rohini, Delhi - 110085, Sector 16",07947229699
+37,Gyano Express,4.7,"Shop Number 190, Devli Road, Khanpur, Delhi - 110062, Infront Of Khazani Education Society",07947233405
+38,Food Forest Sweets & Restau..,4.0,"619/10, Main Road, Chattarpur, Delhi - 110074, Opposite Tivoli Garden",'+(91)-9873573333
+39,Turban Tadkaa,4.6,"5-h/55, Nit 5, New Industrial Township 5-Faridabad NIT, Faridabad - 121001, Near Easy Day & Lenskart",'+(91)-8800848284
+40,Wah Ji Wah Restaurant,3.7,"Shop No-306-7A/6, Opp. Government Girls School, Sadar Bazar, gurgaon - 122001, Sadar Bazar",'+(91)-124-4274443
+41,Rao Hotel,4.8,"NH 8 , Nakhrola District , Sector 80 , Gurgaon, Sikandarpur Gurgaon, Gurgaon - 122004",'+(91)-9911338124
+42,Mela Restaurant & Bar-Vikas..,3.7,"G-6, Community Center, Vikaspuri, Delhi - 110018, PVR Cinema",07947215955
+43,24 Seven Kitchen,4.2,"B1/15, Rajouri Garden, Delhi - 110027, Janta Market",'+(91)-9911111073
+44,Vrindavan Sweets & Restaura..,4.2,"A-3, Main Suraj Kund Road, Pul Prahladpur, Delhi - 110044, Near Ramleela Ground",'+(91)-11-26363936
+45,Desi Punjabi Dhaba,4.6,"WZ 963, Gurudwara Street, Rani Bagh, Delhi - 110034, Rani Bagh Main Bazar",07947233149
+46,Mehak Dhaba,4.0,"Shop No G-17/18, Malik Bulcom Plaza-2, Pocket-5, Dwarka Sector 12, Delhi - 110078, Near Km Chowk",'+(91)-9871211201
+47,Oh My Gopala,4.1,"G-9, Marina Arcade , Outer Circle, Connaught Place, Delhi - 110001, Near Radison Blu,",'+(91)-11-40198324
+48,Jai Shree Sweet Restaurant,4.2,"Khasra Number 46/5 , 37/25/2 Block- A, 100 Foota Road, Burari, Delhi - 110084, Near Government Hospital,  Block A ,Kaushik Enclave",'+(91)-11-27615477
+49,Rai Singhs Amritsari Kulcha..,4.0,"Plot Number 20, Ishwar Colony, Main Delhi Road, Bawana, Delhi - 110039, Near Dsiidc Office",07947219528
+50,Standard Punjabi Food,4.0,"E-93 GF, Main Road, Lajpat Nagar 1, Delhi - 110024",'+(91)-9891040665
+51,Anupam Sweet House31,4.1,,07947211548
+52,Punjabi Angithi,5.0,"Rz-6, Palam Vihar,Kithen No.3 Sec-6,Dwarka, Sector 6 , Dwarka, Dwarka, Delhi - 110075",07947233958
+53,Taste Of Fire,4.5,"Shop No 8, Dr Mukherjee Nagar, delhi - 110009",'+(91)-9540205075
+54,Guptas Restaurant,4.0,"E-27, South Extension 2, Delhi - 110049, Behind Mcdonalds, Main Market",07947213201
+55,Yu Turn Restaurant,4.0,"R-2, YMCA Complex, Greater Noida, Noida - 201310, Opposite Jaypee Resort",07947209786
+56,Vaishno Amritsari Naan,3.9,"Shop No 3 Lsc Market, Mayur Vihar Phase 1, Delhi - 110091, Near Jeenvan Hospital",07947230368
+57,Bell Pepperz Restaurant,4.1,"A 4, Community Centre, Ashok Vihar 2, Delhi - 110052, OPP Satyawati College",07947209793
+58,Kailash Family Restaurant,4.1,"Plot No -1203 Gate No-1, Main Road, Vasundhara Sector 5, Ghaziabad - 201012, Opposite  One Mart Mall",'+(91)-8860677514
+59,Veg Daawat,3.9,"Shop No. 276, Pocket 6, Rohini Sector 2, Delhi - 110085, Opp. Burger  Junction",'+(91)-9643056799
+60,Kamal Sweets & Restaurant,3.9,"C 31 Gurudwara Road, Street No.13, Madhu Vihar-Patparganj, Delhi - 110092",'+(91)-9718202002
+61,Foji Dhaba,3.7,"15B Nagali Razapur, Near Sarai Kale Kha, Nizamuddin, Delhi - 110013, Near Nijamuddin Railway Station",'+(91)-9350522286
+62,Billu Chaap Express,3.9,"G - 1 , Anand Plaza, Pitampura, Delhi - 110034, Local Shopping Market",'+(91)-8818040404
+63,Vaishno Amritsaari Naan,4.0,"G-12, Aggarwal Tower, Patparganj, Delhi - 110092, Near Ajanta Market, Near AVB Public School, IP Extension",'+(91)-011-22723189
+64,Diners Den,4.1,"30/5 Ground floor, Nagia park, Shakti Nagar, Delhi - 110007",'+(91)-11-43382828
+65,Om Bikaner,4.3,"Pillar No - 780, Dwarka More, Delhi - 110059, Near Metro Station Dwarka  More",'+(91)-9255412443
+66,Kake Di Hatti,4.2,"Z-41 Corner, Ground Floor, West Patel Nagar, Delhi - 110008, Near Gopal Dawakhana",'+(91)-9354677163
+67,Janki Vaishno Dhaba,4.2,"Wz -712, Tihar Village, Ashok Nagar, Tilak Nagar, Delhi - 110018, Near Govt Girls Senior Secondary School",'+(91)-011-65515144
+68,Bite N Sip Restaurant,3.9,"UG 58-59, Ansal Chamber 2, Bhikaji Cama Place, Delhi - 110066",'+(91)-11-26712409
+69,Apni Rasoi,3.9,"Shop Number 867,Ground Floor, Dr Mukherjee Nagar, Delhi - 110009, Opposite Batra Cinema,Near ICICI Bank",'+(91)-8527896212
+70,SGF Family Restaurant,3.8,"Shop No 4, Orthoplus Hospital Gali, Gopal Nagar, delhi - 110043, Main Khaira Chowk",'+(91)-8750505151
+71,Rimjhim Dhaba,3.5,"Nh 58, Delhi Meerut Road, Murad Nagar Town, Ghaziabad - 201206, Opposite Abupur Gate",'+(91)-9837333844
+72,Apni Rasoi,3.8,"KH-137/16/2, A1-Block, Burari, Delhi - 110084, Near Sant Hospital,100 Foota Main Road",'+(91)-9667722201
+73,Beni The Zaika Queen,4.2,"Shop No 1, Apex The Florus, Vasundhara Sector 18, Ghaziabad - 201012",'+(91)-9599630051
+74,Shiv Da Dhaba,4.0,"B-90-B Ground Floor, Main Road Kalkaji, Kalkaji, Delhi - 110019, Near HDFC Bank",'+(91)-11-40384103
+75,The Hubbub Cafe & Restauran..,4.0,"Jia Sarai-IIT Delhi, Delhi - 110016, Near Iit Gate Hauz Khas",'+(91)-11-26566219
+76,Family Food Corner,3.9,"D-36, Solanki Market, Dwarka More, Delhi - 110059",'+(91)-7557556946
+77,Le Chef Restaurant,4.0,"Shop No 2, Plot No 6, 2nd Floor, Cross River Mall, Karkardooma, Delhi - 110092",'+(91)-9810511128
+78,Cafe Masala-city Park Resor..,4.1,"Ghevra , Mundka, Mundka, Delhi - 110041, Near Ghevra Metro Station",'+(91)-8802224222
+79,Veg Leaf,4.0,"B-5, B Block Market, Sector- 19, Noida - 201301, Near Post Office",'+(91)-9999185774
+80,Dilli 6,3.8,"128 Ground Floor, Main Road Near Priyagold Building, Naya Bans Village, Noida - 201301, Near Noida Sector 15",'+(91)-0120-4222044
+81,Happy King Restaurant,4.6,"Shop No A21, New Palam Vihar Phase 2, Gurgaon - 122017, Opp. Bajghera Police Station",'+(91)-8059046978
+82,Jhilmil Dhaba,3.6,"National Highway 58, Delhi Meerut Main Road, Murad Nagar, Ghaziabad - 201206, Near Ganga Neher",'+(91)-7500900027
+83,Raju Vaishnav Dhaba,3.9,"Shop No.1 DDA Market, Main Road Garhi, East Of Kailash, Delhi - 110065, Opp ISKCON Temple",'+(91)-011-26289054
+84,Sharma DHABA,3.9,"487/110, Khasra Number -487, Peera Garhi, Delhi - 110087, Nearby Ramleela Ground",'+(91)-9899164474
+85,Hotel Saravana Bhavan,4.3,"P-13/90, Main Road, Connaught Place, Delhi - 110001, Near Madras Hotel, Outer Circle",'+(91)-11-23345577
+86,Old Rao Hotel,4.1,"National Highway-8, Sidhrawali, Gurgaon - 122413, Near BML  Munjal University",'+(91)-9992317800
+87,Hotel Saravana Bhavan,4.4,"50, Janpath, Delhi - 110001, Near Palika Bazaar",'+(91)-11-23317755
+88,Roshan Di Kulfi,4.3,"Shop No-2816, Ajmal Khan Road, Karol Bagh, Delhi - 110005, Near Gaffar Market",'+(91)-11-28724230
+89,Haldirams,4.2,"Shop No 1454/2, Ground Floor, Chandni Chowk, Delhi - 110006, Near Fountain",'+(91)-11-47685111
+90,Apni Rasoi,4.0,"D 125 ,126first Floor, Park Hospital Road, Gurgaon Sector 49, Gurgaon - 122018, Opposite Goodearth City Centre Mall, Near Malibutown Residence",'+(91)-9958602508
+91,Bikanervala (Weddingz.in Pa..,4.2,"Plot No 3-4 & 5, Gurgaon Sector 29, Gurgaon - 122002, Near Leisure Valley Park, Dlf City Center",'+(91)-0124-4337777
+92,Singlas,4.0,"A-139/140, Main Road, Madhu Vihar-patparganj, Delhi - 110092, I P Extension",07947210897
+93,Imly,3.9,"Shop No- F-20, Rajendra Place, Delhi - 110008, Near Hog Market",'+(91)-11-25713000
+94,Sagar Ratna,4.3,"Shop Number-24, Ground Floor, Defence Colony, Delhi - 110024, Near Defence Colony Market",'+(91)-11-24333688
+95,Haandi Pure Veg,3.8,"LGF 06,Jaipuria Sunrise  Plaza, Mall Road, Ahinsa Khand 2-indirapuram, Ghaziabad - 201014, Behind SRS Cinemas Jaipuria Mall",'+(91)-0120-4243666
+96,Naivedyam Restaurant,4.2,"Second Floor,Vipul Square Building, Sushant Lok Phase 1, Gurgaon - 122002, Near Galeriya Market, B Block",'+(91)-124-4049810
+97,Amritsari Food And Caterers,3.7,"Shop Number- 70 G, Kala Patthar Road, Nyay Khand 2-indirapuram, Ghaziabad - 201014, Opposite Nathu Sweets",'+(91)-9999174277
+98,Kwality Dhaba,4.1,"WZ-38, Ashok Nagar, Delhi - 110018, Near Uggarsain Market",'+(91)-011-25133056
+99,Apsara Restaurant & Caterer..,4.0,"B-1/113, Rohini Sector 17, Delhi - 110085, Opposite Petrol Pump",'+(91)-011-27883940
+100,Wah Ji Wah Restaurant,3.9,"Shop Number 25/1, Double Storey, Ashok Nagar, Jail Road, Ashok Nagar, Delhi - 110018, Near Tilak Nagar Metro Station",'+(91)-7042533824
+101,Sagar Ratna Restaurant,4.1,"B-2/1, Ground Floor, Ashok Vihar 2, Delhi - 110052, Near Satyawati College",'+(91)-11-27212525
+102,Kake Di Hatti,4.2,"654-655, Church Mission Road, Fatehpuri, Delhi - 110006",'+(91)-011-43552754
+103,Sagar Ratna,4.0,"Shop Number  C1, Vikaspuri, Delhi - 110018, Near New Krishna Park & Opposite Piccadilly & Hilton Hotel Janakpuri West Metro Station Gate Number",'+(91)-11-41582937
+104,Apni Rasoi,4.0,"U-16, Ewf Building, Shop Number- 1 & 2, Main Road, Dlf City Phase 3, Gurgaon - 122010, Near Block-U, Sector-24",'+(91)-0124-2566088
+105,Wah Ji Wah Restaurant,3.9,"B 35, Laxmi Nagar, Delhi - 110092, Opposite V3S Mall, Gurunanak Pura",'+(91)-011-47656978
+106,New Madras Cafe,3.9,"Shop No A-1, Mahagun Mannsion, Kala Pathar Road, Vaibhav Khand-indirapuram, Ghaziabad - 201014, Opposite Gaur Green City",'+(91)-0120-4122701
+107,Sagar Ratna,4.1,"K-15, Ground Floor, Connaught Place, Delhi - 110001, Near Outer Circle, Near Pvr Plaza & Metro Station Gate Number 2",'+(91)-11-23412470
+108,Naivedyam Restaurant,4.3,"Shop Number-1, Hauz Khas, Delhi - 110016, Hauz Khas Village,Near Deer Park",'+(91)-11-49875177
+109,Sagar Ratna,4.0,"G-86, Vikas Marg, Preet Vihar, Delhi - 110092, Near Preet Vihar Metro Station",'+(91)-11-42141530
+110,Punjabi Rasoi,4.0,"Shop Number- D-12/187-188, Main Road, Rohini Sector 7, Delhi - 110085, Near Metro Pillar Number-408",'+(91)-11-27055757
+111,Rana Dhaba,4.0,"G-39 A, Noida Sector 22, Noida - 201301, G-Block, Near Axis Bank ATM",'+(91)-8377831483
+112,Carnatic Cafe Home Style So..,4.2,"Ground Floor, India Mall, New Friends Colony, Delhi - 110025, Near Community Centre",'+(91)-011-41008630
+113,Wah Ji Wah Restaurant,4.0,"B-12/5, Rohini Sector 14, Prashant Vihar, Delhi - 110085, Near CRPF School",'+(91)-9899817721
+114,Sardarji Malai Chaap Wale,4.2,"Shop Number 186, Main Road, Kalkaji, Delhi - 110019, Near Govind Puri Metro Station",'+(91)-7838479999
+115,Jetha Lal Ka Dhaba.,3.9,"Shop No  U-9/50., U Block, Dlf City Phase 3, Gurgaon - 122010, Near Airtel Store, U-block",'+(91)-9871079734
+116,Shri Ram Traditional Indian..,4.1,"Shop Number- 23, Sohna Road, Gurgaon - 122001, Opposite Omax Mall, Sector 48",'+(91)-124-4278885
+117,Naivedyam Restaurant,4.2,"F-12, Main Road, Kalkaji, Delhi - 110019, Near Desh Bandhu College",'+(91)-011-26236364
+118,Chindambarams New Madras Ho..,4.2,"Shop Number-7, Lodhi Colony, Delhi - 110003, Khanna Market, Near Maternity Hospital",'+(91)-011-24611726
+119,Naivedyam Restaurant,4.1,"Door No-25/35, Main Road, East Patel Nagar, Delhi - 110008, Near Radha Krishan Mandir, Lila Ram Market",'+(91)-11-25862929
+120,Mithaas Sweets & Restaurant..,4.1,"G - 20 & 21, Aashirwad Complex, Noida Sector 53, Noida - 201301, Opposite Shivalik Hospital",'+(91)-120-4574447
+121,Sagar Ratna,4.0,"Shop Number-49-50, Ansal Fortune Arcade, Noida Sector 18, Noida - 201301, Near HDFC Bank, Opposite Max Hospital",'+(91)-0120-4201464
+122,Kuddu Di Rasoi,4.0,"Shop No G1,G2, Dwarka Sector 11, Delhi - 110075, Near Manish Market,Pocket-2",'+(91)-9891077627
+123,Naivedyam Restaurant,4.2,"H-1a/17, First Floor, Noida Sector 63, Noida - 201307, Near Fortis Hospital & Ginger Hotel",'+(91)-0120-4223608
+124,Wah Ji Wah Restaurant,4.0,"A 2 Block, Dda Market, Shop No 11 Csc, Paschim Vihar, Delhi - 110063, Near By Mother Dairy",'+(91)-11-47075701
+125,Chaska Restaurant,4.1,"G-6, Gu Block, Maya Complex, Pitampura, Delhi - 110034, Near Adarsh Maharaja Agarsen School",'+(91)-011-27346081
+126,Angan Restaurant,4.2,"10181/82, Arya Samaj Road, Karol Bagh, Delhi - 110005, Near Bikanerwala",'+(91)-11-45002525
+127,Shri Radha Ki Rasoi,3.9,"B-222, Dwarka Sector 7, Delhi - 110075, Near Palam Extenstion-1, Near ICICI Bank",'+(91)-011-43090393
+128,Naivedyam Restaurant,4.2,"Shop No 41, Golf Course Extension Road, Sohna Road, Gurgaon - 122001, Vatika City Market, Sector-49",'+(91)-124-4109810
+129,The Dhaba,3.8,"Shop Number H-11, Galleria Market, Crossing Republik, Ghaziabad - 201016, Near Golf Course",'+(91)-120-4988748
+130,Sona Sweets & Shri Udipi Re..,4.2,"Shop No 27, Saraswati House 27, Nehru Place, Delhi - 110019, Nr Bank Of Baroda",'+(91)-011-26215237
+131,Kadimi Foods Pvt Ltd,4.0,"Building Number - C - 5A, Shop Number - 1 & 2, Janakpuri, Delhi - 110058, Near Kadimi Market, Near Central Jail, Gate Number 4",'+(91)-11-45502737
+132,Sagar Ratna,3.9,"A-6/7, Chaudhary Balbir Singh Marg, Paschim Vihar, Delhi - 110063, Near Jwala Heri Market",'+(91)-11-42143593
+133,Jaiveer Naan & Chaap,3.9,"BG-8,Shop Number-8, Paschim Vihar, Delhi - 110063, Near Jalebi Chowk,DDA Market",'+(91)-011-49055909
+134,Kali Ghata Mishthan Bhandar..,4.1,"Shop Number - F 146, Arya Samaj Road, Uttam Nagar, Delhi - 110059",'+(91)-9205150220
+135,Apni Rasoi,3.9,"F-18, Hudson Lane, Vijay Nagar, Delhi - 110009, Opposite Ndpl Office",'+(91)-9953304900
+136,Chitrakut Restaurant,4.1,"Shop No-30, AD Market, Shalimar Bagh, Delhi - 110088, Near MTNL Office",'+(91)-011-27487687
+137,Southy,3.8,"Super Mart 2 , Kasera 505-506 , Sector 43 , Gurgaon, DLF Phase 4, Gurgaon - 122002",'+(91)-8454848884
+138,Chaap Kitchen Restaurant,3.8,"Shop No. E-124, Lajpat Nagar 4, Delhi - 110024, Near Amar Colony, Near Tagore International School",'+(91)-011-40041618
+139,Zaika E Dilli,3.9,"C- 9/17, Main Road, Yamuna Vihar, Delhi - 110053, Opposite Pratibha School",'+(91)-9711343600
+140,Wah Ji Wah Restaurant,4.0,"9 Community Centre, Shop No 1, Ashok Vihar 2, Delhi - 110052, Near Satya Wati College, Invitation Market",'+(91)-9289868607
+141,Udupi Krishna Restaurant Pv..,4.2,"Shop Number-69, Main Road, Navyug Market, Ghaziabad - 201011, Near SBI Bank & Ambedkar Park",'+(91)-0120-4376813
+142,Sagar Ratna (The Ashok Hote..,4.3,"C/O The Ashok Hotel, 50 B, Chanakya Puri, Delhi - 110021, ITDC, Diplomatic Enclave",'+(91)-011-26888242
+143,Prasadam,4.0,"G-57, Vikas Marg, Laxmi Nagar, Delhi - 110092, Near Metro Pillar Number-41 and Walia Nursing Home",'+(91)-11-22421010
+144,SWAD - Desh Videsh Ka,4.0,"Shop Number 43  Ground Floor  Chiranjivi Tower, Nehru Place, Delhi - 110019, Near Satyam Cinemas and Eros Hotel",'+(91)-11-40074156
+145,Haldirams,4.2,"3rd Floor, Shop Number- 309,310 Ambience Mall, Delhi Jaipur Highway, Gurgaon Sector 15 Part 2, Gurgaon - 122001, National Highway -8, Next to Toll Plaza",'+(91)-9650871115
+146,Bhimsains Bengali Sweet Hou..,4.1,"Shop Number 27 to 29, Bengali Market, Delhi - 110001",'+(91)-011-23311855
+147,Jai Vaishno Rasoi,4.2,"Shop Number- 6, Prashant Vihar, Delhi - 110085, Near Dda Market, B Block Market, Opposite Crpf School",'+(91)-11-27867053
+148,Southy Restaurant,3.7,"Shop Number 65, Mall Road, Kingsway Camp, Delhi - 110009, Near GTB Nagar Metro Station Gate Number- 1, Kingsway Camp",'+(91)-011-45547666
+149,Ganeshwaram Restaurant,4.1,"SD 155 - 156, Noida Ho, Noida - 201301, Near SD Block , Sadarpur , Noida Sector 45",'+(91)-9871791975
+150,Wah Ji Wah Restaurant,3.8,"K-3/4, Main Road, Saket, Delhi - 110017, Near Gyan Bharti School",'+(91)-011-41091104
+151,Govardhan Vegeterian,4.0,"84, Shri Aurobindo Marg, Adchini-Sarvodaya Enclave, Delhi - 110017, Near IIT",'+(91)-11-26513961
+152,The Masala Trail,3.8,"52, Janpath Road, Janpath, Delhi - 110001, Near Sarvana Bhawan",'+(91)-011-43593000
+153,Neelgiri Restaurant,3.9,"P 19/20, First Floor, Mayur Vihar Phase 1, Delhi - 110091, Above Aggarwal Sweets, Pandav Nagar",'+(91)-11-22756548
+154,Dasaprakash Restaurant,4.2,"H No HA-106, Main Road, Noida Sector 104, Noida - 201304, Opposite Internationl Pathway School, Hajipur Village",'+(91)-9693969371
+155,Sagar Ratna,3.8,"Building Number-2  Odeon Plaza  3rd Floor, Dwarka Sector 6, Delhi - 110075, Near Dwarka Sector 11 Sport Complex",'+(91)-11-45380683
+156,Green Lounge Restaurant,4.0,"G 39 -  43, & Lg 1 & 2 , Aggarwal City Mall, Road Number 44, Rani Bagh, Delhi - 110034, Opposite M2k Cinema Hall",'+(91)-011-47354589
+157,Gulab Rewri Gulab Wala,4.1,"Plot No 5, Main Road, Madhuban Chowk, Delhi - 110085, Near Metro Pillar Number 352",'+(91)-9310160006
+158,New Punjabi Rasoi,3.7,"Shop No 2, Pckt -25, Rohini Sector 24, Delhi - 110085, Near Bala Ji Bagosha Mandeer",'+(91)-9540312059
+159,Apni Rasoi,3.9,"Shop Number 1, Ashok Vihar 3, Delhi - 110052, Opposite Croma Electronics Near Dominos Pizza  DDA Market  Pocket B",'+(91)-9990477605
+160,Veg Always Family Restauran..,3.9,"Shop Number G-127 & 128, Neelkanth Plaza, Commercial Belt, Greater Noida, Noida - 201310, Near Axis Bank & Garhwal Paneer",'+(91)-0120-4275666
+161,Bikanervala,4.1,"Sco No-26 & 29, Old Delhi Road, Gurgaon Sector 12a, Gurgaon - 122001, Huda Market, Opposite Telephone Exchange",'+(91)-0124-2334444
+162,Priyanshi South Indian Fast..,4.1,"H-43, Vikas Marg, Laxmi Nagar, Delhi - 110092, Near Sbi Atm",'+(91)-011-49841682
+163,Himalaya Sagar,3.7,"A-1, Milap Nagar-uttam Nagar, Delhi - 110059, Near Station Uttam Nagar East",'+(91)-011-28566056
+164,Burma Burma,4.5,"Shop Number-6,Ground Floor,Building 8, Tower C, Dlf Cyber City, Gurgaon - 122002, Near CyberHub,Phase 3",'+(91)-124-4372999
+165,Apni Rasoi Restaurant,3.9,"Shop Number 7, Ground Floor, Mall Road, Kingsway Camp, Delhi - 110009, Oppsite Hakikat Nagar Mother Dairy, Near Gtb Nagar Metro Station Gate No 2",'+(91)-011-27605777
+166,Nathu Sweet Restaurant,4.0,"G 63, Mansarover Shopping Complex, Noida Sector 18, Noida - 201301, Near Mcdonalds",'+(91)-120-4259659
+167,Shree Rathnam Restaurant,4.2,"Kaushambi Metro Station, Ground Floor, Kaushambi, Ghaziabad - 201012",'+(91)-120-2777771
+168,Hotel Saravana Bhavan,4.1,"Food Court, Select Citywalk Mall, Saket, Delhi - 110017",'+(91)-011-41322929
+169,Annapurna Restaurant,3.7,"Shop No-1811, Chandrawal Road, Malka Ganj, Delhi - 110007, Opposite Sethi Bakery",'+(91)-11-23857545
+170,Naivedyam Restaurant,4.2,"G-11, Vipul Plaza, Golf Course Road, Suncity, Gurgaon - 122011, Sector 54",'+(91)-0124-4333215
+171,Udupi Krishna Restaurant,4.2,"F-45, Kohlapur Road, Kamla Nagar, Delhi - 110007, Near Spark Mall",'+(91)-11-23843264
+172,Apni Rasoi,2.9,"E -20/226, 2/3 Dividing Road, Rohini Sector 3, Delhi - 110085, Near Dawar Shoes & Travels",'+(91)-11-47083842
+173,Bangla Sweets,4.0,"Shop Number A-2, Najafghar Road, Kirti Nagar, Delhi - 110015, Opposite Metro Pillar No-329",'+(91)-11-25106533
+174,Apni Rasoi,4.0,"Shop No- A2., Main Road., Ganesh Nagar, Delhi - 110092, Near D Park.",'+(91)-9711746204
+175,Karnataka Restaurant,4.2,"Sco-82-83, Palam Vihar Road, Service Road, Gurgaon Sector 22, Gurgaon - 122015, Upper Dominoz",'+(91)-124-4045451
+176,Sagar Ratna,3.8,"5/5 A, Basement, Vasant Kunj, Delhi - 110070, Central Market, Masoodpur, Opposite Basant Squre Mall",'+(91)-011-26899700
+177,Swastik Restaurant,3.7,"Shop Number GS 70, Sewak Park, Dwarka More, Delhi - 110059, Near Dwarka More Metro Station",'+(91)-11-65807019
+178,Sagar Ratna,3.9,"A-1, First Floor, Mayur Vihar Phase 1, Delhi - 110091, Near Sheetla Mata Mandir, Acharya Niketan, Pandav Nagar",'+(91)-11-22751576
+179,Anupam Sweet House31,4.1,"Ch. Hetram Complex , Pills Kothi, Sector 30-31 Dividing Road, Sector 31, Faridabad - 121003",'+(91)-9810796081
+180,Pakwan,4.1,"Plot Number 164/11, Old Railway Road, Shivpuri, Gurgaon - 122006, Near Raj Bakery",'+(91)-0124-4051351
+181,Kadimi Foods Pvt Ltd,4.0,"Pocket-4, Second Floor, Plot Number-7, Above HDFC Bank, Dwarka Sector 11, Delhi - 110075, Near Kargil Chowk",'+(91)-011-42770202
+182,Grover Sweets,4.0,"Plot Number-1, Dwarka More, Delhi - 110059, Near Metro Pillar No - 781,  Diwan Estate, Bhagwati Garden",'+(91)-11-25358272
+183,Ramesh Vaishno Dhaba,4.1,"House Number 11, Shivpuri-chandar Nagar, Delhi - 110051, Near Dominos Pizza",'+(91)-9873778861
+184,Veg Gulati,4.2,"Shop Number 8, Near By India Gate, Pandara Road, Delhi - 110003, Opposite Bikaner House, Near India Gate",'+(91)-11-23388830
+185,Sattvik Restaurant,4.1,"S- 05, Second Floor, Select City Walk Mall, Saket, Delhi - 110017, A3 District Centre",'+(91)-11-40599913
+186,Sagar Ratna,3.9,"Fd-02, Upper Ground Floor, Pitampura, Delhi - 110034, Near Metro Station Gate Number-3, Madhuban Chowk",'+(91)-11-47070215
+187,Kake Di Hatti,3.8,"Shop Number-G 20, Vijay Nagar, Delhi - 110009, Near NDPL Office",'+(91)-011-47321080
+188,The Karnataka,4.0,"A- 89 & 90, Ignou Road, Neb Sarai, Delhi - 110068, Near Freedom Fighter Colony, Near Sainik Farm",'+(91)-11-29531641
+189,Dilli Darbar Food Pvt Ltd,4.1,"No C 448, Main 100 Feet Road, Shahdara, Delhi - 110032, Opposite Rajiv Raj Bajaj Showroom",'+(91)-9210161500
+190,Govindas Restaurant,4.2,"Iskcon Temple Complex, Sant Nagar Main Road, East Of Kailash, Delhi - 110065, Near",'+(91)-11-41094042
+191,Wah Ji Wah Restaurant,4.0,"Shop No 142, Rohini Sector 24, Delhi - 110085, Near Canara Bank Pocket 26",'+(91)-9205200205
+192,Mohan Dhaba,3.9,"Plot No -629, Main Road, Vaishali Sector 5, Ghaziabad - 201010, Near Ramprastha Greens",'+(91)-9910252976
+193,Shudh Restaurant,4.0,"17 A/32, Gurudwara Road, Karol Bagh, Delhi - 110005, Opposite Jessa Ram Hospital",'+(91)-11-45000355
+194,Imly Courtyard,3.8,"B1/1, Ashok Vihar 1, Delhi - 110052, Near Satyawati Collage",'+(91)-8510900070
+195,A2B Veg Restaurant,4.0,"S 18, Green Park, Delhi - 110016, Main Market",'+(91)-11-26532691
+196,Simply South,4.0,"Shop Number-1, Jagat Farm, Gamma 1-Greater Noida, Noida - 201310, Near Gamma-1,Jagat Farm",'+(91)-0120-6692259
+197,Chatore.e.e A Pure Vegetari..,3.9,"G-7, Vardhman Century Plaza, GU Block, Pitampura, Delhi - 110034, Near Maharaja Aggrasain Public School",'+(91)-9873375007
+198,Shubham Restaurant,3.5,"A-4, Main Mandoli Road, Mandoli Saboli, Delhi - 110093, Near Nathu Colony Chowk",'+(91)-11-22139000
+199,Mysore Cafe,4.1,"Shop No-12, Defence Headquarter, Delhi - 110011, South Avenue Market",'+(91)-11-23013750
+200,Bhaja Govindam Restaurant,4.2,"Delite Cinema Building Number-4/1,Ground Floor,Delite Cinema, Delite Cinema Building Asaf Ali Road, Asaf Ali Road, Delhi - 110002, Opposite Gb Pant Hospital",'+(91)-11-40634721
+201,Dharma Vaishno Dhaba,3.8,"Mathura Road HIGHWAY, Faridabad Sector 12, Faridabad - 121007, Near City Mall",'+(91)-129-2280101
+202,Smelling Salts,4.1,"C-2/13, Phase 2, Ashok Vihar 2, Delhi - 110052, Near Bata Showroom",'+(91)-11-47775012
+203,Sagar Ratna Restaurant,3.9,"101, 1st Floor, Plot Number-22, Bazaar Marg, Old Rajender Nagar, Delhi - 110060, Above Dominos Pizza, Near Metro Pillar No111",'+(91)-11-42473769
+204,Wah Ji Wah Restaurant,4.0,"Shop No G 3, Sachdeva Plaza, Mayur Vihar Phase 2, Delhi - 110091, Near Neelam Mata Mandir",'+(91)-8527746288
+205,Wah Bhai Wah Restaurant,3.8,"A-1/168-169, Main Road, Rohini Sector 4, Delhi - 110085, Near Saint Giri School",'+(91)-9250179212
+206,Eleven To Eleven Restaurant,4.0,"R- 1, 3rd Floor,Cross River Mall, Karkardooma, Delhi - 110092, Near Karkardooma Court",'+(91)-011-42111856
+207,M Dosa Express,4.1,"E-56, Jail Road, Delhi - 110058, Opposite Fateh Nagar Gurudwara",'+(91)-9990111058
+208,Seasonings The Spice Myster..,4.1,"B 1/6, Ground Floor, Chaudhary Gulab Singh Marg, Ashok Vihar 2, Delhi - 110052, Near Satyawati College",'+(91)-11-45613555
+209,Bunty Dhaba,3.9,"G8, Aditya Corporate Plaza, Karkardooma, Delhi - 110092, Near Community Centre",'+(91)-11-22376270
+210,Bunty Dhaba,3.9,"G-8,Aditya corporate plaza community center, Main road, Karkardooma, Delhi - 110092, Near Karkardooma Metro Station,Dayanand Vihar",'+(91)-011-22371518
+211,Vaishno Punjabi Dhabha,4.2,"E 16/289, Rohini Sector 8, Delhi - 110085, Near M2k Rohini",'+(91)-11-32559590
+212,Carnatic Cafe,4.4,"M-21, Greater Kailash 2, Delhi - 110048, M Block Market",'+(91)-11-41708631
+213,Mainis Green Leaf,4.2,"Shop No-3, Ground Floor, Kaushambi Metro Station Building, Kaushambi, Ghaziabad - 201012",'+(91)-120-2773100
+214,Raj Bhog Food India,3.9,"12 Inder Enclave, Main Rohtak Road, Inder Enclave, Delhi - 110087, , Opposite Udyog Nagar and Near Metro Pillar No-311",'+(91)-7428750009
+215,Honeys Veg,4.0,"Shop No.105, On Road, Dr Mukherjee Nagar, Delhi - 110009, Bhai Parmanand Colony, Near Batra Cinema",'+(91)-7999799911
+216,Darbar Restaurant,4.1,"8956, Pahar Ganj, Delhi - 110055, Opposite Bikaner Sweets, Chowk Multani Dhanda",'+(91)-11-23547777
+217,Ashirwad Restaurant,4.1,"Sco-18-19-20, Faridabad Sector 16, Faridabad - 121002, Near Laxmi Narayan Mandir",'+(91)-0129-2261222
+218,Dilli Light Chur Chur Naan,3.9,"Sco 40, Gurgaon Sector 31, Gurgaon - 122001, Near Om Sweets, Huda Market",'+(91)-0124-4833348
+219,Rajbhog Restaurant,3.9,"21-A, Main 40 Feet Road, Jain Nagar, Delhi - 110081, Opposite Rohini Sector 22",'+(91)-011-66103607
+220,Pummy Paradise Restaurant P..,3.5,"14 A, Pocket I, Dilshad Garden, Delhi - 110095, Opposite Pummy Sweets, Pocket I",'+(91)-11-33106262
+221,Sagar Ratna,3.9,"Shop Number B1/H9, Mathura Road, Delhi - 110044, Near Haldirams",'+(91)-11-41040435
+222,Udupi Cafe,4.1,"5, Pratap Bhawan, Bahadur Shah Zafar Marg, Ito, Delhi - 110002",'+(91)-11-23353666
+223,Bite Bikaner,3.9,"Shop Number-C-1/1, Janakpuri, Delhi - 110058, Opposite Mata Chandan Devi Hospital",'+(91)-11-41574670
+224,Sukhsagar Vaishno Hotel,3.9,"Bilaspur Gurgaon, Gurgaon - 122413, Near Bilaspur Chowk, National HIghway 8 .old Bharat Ptrol Pump",'+(91)-9991887686
+225,Dau Ji Sweets And Restauran..,3.8,"Shop Number 19-20, Roshan Lal Plaza, Noida Sector 2, Noida - 201301, Near Yatharth Hospital",'+(91)-9818848530
+226,Vikrant Cafe,4.0,"13-A, G T Road, Kamla Nagar, Delhi - 110007, Opposite Birla Mill",'+(91)-011-23845846
+227,Wah Ji Wah Restaurant,3.3,"Shop Number 7-8, 1449/B-1, Main 100 Feet Road, Durgapuri-shahdara, Delhi - 110032, Opposite MBO Mall",'+(91)-011-22810900
+228,Mitra Da Dhaba,4.1,"X-57, Ground Floor, West Patel Nagar, Delhi - 110008, Near Kalinga Chowk",'+(91)-011-42415002
+229,Shri Kanha Restaurant,3.8,"Shop No 1, Beta 1-greater Noida, Noida - 201310, Near Rampur Jahangir, Cm Market, Near Authority Gol Chakkar",'+(91)-9891993877
+230,Da Pizza Palace,3.9,"A-6, Main Kanjawala Road, Budh Vihar, Delhi - 110086, Near Anupam Vatika, Krishna Vihar",'+(91)-7840095042
+231,Suvidha Vegetarian Restaura..,4.1,"Shop Number 3058, Netaji Shubash Marg, Darya Ganj, Delhi - 110002, Near Golcha Parking",'+(91)-011-23272981
+232,Radha Krishna Choley Bhatur..,3.7,"115, Priya Enclave, Karkardooma, Delhi - 110092, Opp AGCR Enclave Karkardooma Court",'+(91)-9654634559
+233,Ram Ji Di Hatti & Caterers,4.0,"BE-324, Gali No-4, Hari Nagar, Delhi - 110064, Opposite MIG Flats",'+(91)-9650438007
+234,Maini Restaurant,4.1,"Shop No-4-5, Surya Nagar, Ghaziabad - 201011, A-Block Market, Right Opposite Vivek Vihar",'+(91)-120-2643500
+235,Ridhi Sidhi Family Restaura..,4.0,"449/450, Bhim Nagar, Gurgaon - 122001, Near Ramleela Ground",'+(91)-9899590049
+236,Madan Sweet & Food Point,3.9,"Shop Number 126, Nehru Nagar, Ghaziabad - 201001, Opposite J K Complex",'+(91)-0120-6514234
+237,Raina Di Hatti,4.0,"12/2, Shop Number 23, 24, 25, Main Mathura Road, Faridabad Sector 37, Faridabad - 121003, Opposite Metro Pillar Number-75",'+(91)-0129-4168111
+238,The Mint Restaurant,4.1,"Manish Link Road Plaza, Dwarka Sector 5, Delhi - 110075, Near Ashirwad Chowk",'+(91)-11-45605355
+239,Shakahari Restaurant,4.0,"Shop Number 3624/9, Chawri Bazar, Delhi - 110006, Near Metro Station",'+(91)-11-23277336
+240,Sagar Ratna,4.1,"Omaxe NRI City Centre, Knowledge Park 1-Greater Noida, Noida - 201310, Near Pari Chowk , Greater Noida",'+(91)-120-4262626
+241,Sagar Ratna,4.0,"C-18B, Astoria Boulevard Mall, Rdc-Raj Nagar Ghaziabad, Ghaziabad - 201002, Near Hint Chowk",'+(91)-0120-4276140
+242,Apni Rasoi,3.7,"Shop No-3767-A/2, Main Road, Tri Nagar, Delhi - 110035, Opposite Kanhiya Nagar Metro Station",'+(91)-9899775278
+243,Laddu Gopal Restaurant,4.2,"Shop No-727, Old Railway Road, Bhim Nagar, Gurgaon - 122001, Near Auto Parts Market",'+(91)-9868827614
+244,Khana Khazana Restaurant,3.7,"B-4/158, Dividing Road, Rohini Sector 7, Delhi - 110085, Near M B Jewellers",'+(91)-9250922900
+245,Chawla De Mashhoor Special ..,3.9,"8955, Chowk Multani Dhanda, Pahar Ganj, Delhi - 110055, Opp Bikaner",'+(91)-11-20023717
+246,Hotel Milan Plaza,3.8,"Scf 1 & 2, Faridabad Sector 11, Faridabad - 121006, Nr,Escort Mujesar Metro Station",'+(91)-129-2290074
+247,Sagar Ratna,3.8,"C-32, Amar Colony-lajpat Nagar, Delhi - 110024, Near Main Market",'+(91)-011-41610698
+248,Rasoi Delivery,3.7,"5/5,Gaur Galaxy, Main Road, Vaishali Sector 5, Ghaziabad - 201010, Near Shopprix Mall",'+(91)-9910009107
+249,Kathputli Restaurant,4.1,"Shop No-35, Defence Colony, Delhi - 110024, Defence Colony Market",'+(91)-11-41552046
+250,Fauji Da Dhaba,3.8,"54 , Milestone , NH-8, Manesar, Gurgaon - 122052, Near Raj Riffles Centre , Gurgaon",'+(91)-9991800597
+251,Bunty Punjabi Chole Bhature..,3.9,"52, Nyay Khand-2, Kala Pathar Road, Indirapuram, Ghaziabad - 201014, Opp.Mahagun Mension",'+(91)-9911448778
+252,Kake Di Hatti (D Mall),4.1,"G 21,D Mall, Netaji Subhash Place Complex-pitampura, Delhi - 110034",'+(91)-11-43090359
+253,Tite Da Dhaba,4.1,"Shop Number-B595., Shivji College Road, Raghubir Nagar-tagore Garden Extension, Delhi - 110027, Near Mehta Chowk.",'+(91)-7678229401
+254,Sham Sweets & Snacks,3.9,"Shop Num289/2, Old Delhi Road, Gurgaon Sector 14, Gurgaon - 122007, Near Telephone Exchange, Opposite Basant Apartment",'+(91)-124-2335588
+255,Rajan Corner,4.2,"Building 6/27, Moti Nagar, Delhi - 110015",'+(91)-9650069178
+256,Panchavati Gaurav Restauran..,3.9,"Shop No 20 & 21, Ground Floor, Dlf Cyber City, Gurgaon - 122002, Cyber Hub, National Highway 8",'+(91)-0124-4949634
+257,Dilli Treat,3.7,"B-2, Upper Ground Floor, New Rajender Nagar, Delhi - 110060, Near DDA Market",'+(91)-11-45506767
+258,Southy,4.0,"Shop 9 , Ground Floor , Arunachal Building, Connaught Place, Delhi - 110001",'+(91)-011-40254822
+259,Moti Mahal Delux,4.0,"Plot Number-240, H-17, Rohini Sector 7, Delhi - 110085, Opp Metro Pillar No 421",'+(91)-011-45768383
+260,Sagar Ratna,4.0,"Shop Number E-8, Naraina Vihar, Delhi - 110028, Near PVR Priya Cinema and Axis Bank",'+(91)-011-42230207
+261,Wah Ji Wah Restaurant,3.7,"Plot No 150, Rohini Sector 24, Delhi - 110085, Near By Babosa Chowk, Pocket 16",'+(91)-011-40044715
+262,Krishnam Restaurant,3.6,"H 432, H Block, Govindpuram, Ghaziabad - 201013, Near Gaur Square Mall",'+(91)-0120-2764424
+263,Burma Burma (DLF Mall Of IN..,4.5,"Shop D 420B , Third Floor , DLF Mall Of India , Plot M-03, Noida Sector 18, Noida - 201301",'+(91)-0120-4372997
+264,Indishh Barbeque & Grill,3.7,"Ambience Mall, T-315 3rd Floor, DLF City Phase 3, gurgaon - 122010",'+(91)-8929625729
+265,Sanjay Chur Chur Naan,3.7,"Shop No- 6 & 7, Moolchand Metro Station Building, Main Road, Lajpat Nagar, Delhi - 110024, Near Under Metro",'+(91)-9205052938
+266,Wah Ji Wah Restaurant,4.0,"Plot Number E-82, Shastri Nagar N, Delhi - 110052, Near Punjab National Bank & Metro Pillar Number 174",'+(91)-9211114155
+267,Apna Dhaba,4.1,"Shop Number-29-31, Gg-1, Vikaspuri, Delhi - 110018, Near Main Market",'+(91)-11-28544640
+268,Flavor Of Southwala,4.4,"D-355, Vikas Marg, Laxmi Nagar, Delhi - 110092, Near Metro Station Gate No5",'+(91)-011-49540022
+269,Papa Chinese Foods,3.8,"Shop Number-26/1, Jail Road, Ashok Nagar, Delhi - 110018, Near Tilak Nagar Metro Station",'+(91)-11-66434432
+270,Balaji Rasoi,3.8,"C-8, Main Road, Laxmi Nagar, Delhi - 110092, Near Guru Ram Das Nagar",'+(91)-011-22015197
+271,Manpasand Restaurant,4.1,"Shop Number 2 and 3, Palam Vihar Road, Gurgaon Sector 22, Gurgaon - 122015, Opposite Rotary Public School",'+(91)-124-4100849
+272,Sagar Ratna Restaurant,3.9,"Shop Number-25,26,27, Dda Local Shopping Center, Greater Kailash Enclave 2, Delhi - 110048, Near Masjid Moth and HDFC Bank",'+(91)-11-41089050
+273,Mitra Da Dhaba,3.6,"Shop No-1/124, Sankar Road, Old Rajender Nagar, Delhi - 110060, Opposite PNB Bank",'+(91)-7840090070
+274,Punjabi Zaika Vg,4.1,"3539 A Raja Park, Rani Bagh, Delhi - 110034, Near Mahendra Park Chowk & Opposite Bikaner",'+(91)-11-64648001
+275,The Vilayati Dhaba,3.8,"857, Dr Mukherjee Nagar, Delhi - 110009, Near Batra Cinema",'+(91)-9643027320
+276,Udupi Sai Sarovar Restauran..,4.0,"Shop Number A-91B., Lajpat Nagar 2, Delhi - 110024, Near Style Shoes, Central Market",'+(91)-011-29841222
+277,Bikanervala Fine Dining Res..,4.0,"Plot Number-6, Wave Silver Tower, First Floor, Noida Sector 18, Noida - 201301, Block-D, Near Mosaic Hotel and Noida Sector 18 Metro Station",'+(91)-120-4811128
+278,Tadka,4.0,"Shop Number 4986, Pahar Ganj, Delhi - 110055, Opposite Relax Hotel, Nehru Bazar",'+(91)-9811966531
+279,Sagar Ratna,3.9,"C 134 B, Ground Floor, Supertech Shopprix Mall, Noida Sector 61, Noida - 201307, Nr Kanchanjangha Maket",'+(91)-120-4204347
+280,Lala Ji Da Shudh Vaishno Dh..,3.9,"G-157, Main Najafgarh Road, Uttam Nagar, Delhi - 110059, Near Vishal Mega Mart, Opposite Metro Pillar No-676",'+(91)-9871758758
+281,Santushti Vegetarian Restau..,4.0,"Shop No 21,L Block Market, Noida Sector 11, Noida - 201301, Near Metro Hospital",'+(91)-120-2440455
+282,Bhukkad Gali,3.6,"D-15/160,Ground Floor, Rohini Sector 3, Delhi - 110085, Near Ayodhya Chowk",'+(91)-11-49841400
+283,Shree Maakhan,3.3,"Plot Number F  603, Dwarka Sector 7, Delhi - 110075, Near Ramphal Chowk, Palam Extension",'+(91)-11-45873722
+284,Punjabi Dhaba,4.2,"Csc-5, Shop Number- 6/16, Rohini Sector 11, Delhi - 110085, Behind Veera Jain Hospital, Near D-3 DDA Market",'+(91)-11-42051241
+285,Govind Dhaba,4.0,"Plot Number 4-A, Dilshad Garden, Delhi - 110095, Near H Pocket",'+(91)-11-22585587
+286,Bunty Chap Tandoori Junctio..,3.8,"3-B-2, Shop No-9-10, Nehru Nagar 3, Ghaziabad - 201001, Near Holy Child Chowk, B Block",'+(91)-0120-2790355
+287,Rahul Rasoi Restaurant & Ca..,3.9,"Shop No- 23/B-1,DDA Market, Paschim Vihar, Delhi - 110063, Near Main Market",'+(91)-11-25269088
+288,Singlas Restaurant,3.8,"1963/2, Narela, Delhi - 110040, Near Raghunath Mandir , Main Bazar",'+(91)-7290063531
+289,Devirams,3.9,"Shop Number 88, Ground Floor, Eros City Square Mall, Gurgaon Sector 49, Gurgaon - 122018, Near Sector 50",'+(91)-0124-4690888
+290,New Tera Hotel,4.1,"Shop No 4, Karol Bagh, Delhi - 110005, Gaffar Market",'+(91)-9311117677
+291,Southy Restaurant,3.6,"No 88/4, Aurobindo Marg, Adchini-sarvodaya Enclave, Delhi - 110017, Near Govardhan Restaurant",'+(91)-11-41088644
+292,Sabki Rasoi Madras Cafe,3.8,"Shop No B-173, B Block, Dwarka Sector 7, Delhi - 110075, Near Honda Showroom",'+(91)-9999682383
+293,Town Darbar,4.2,"Plot Number 1g/47, Faridabad Nit, Faridabad - 121001, Near Kalyan Singh Chowk",'+(91)-0129-4870505
+294,Amritsari Vaishno Dhaba,3.6,"Pillar No.782, Dwarka, Delhi - 110075",'+(91)-7503831176
+295,Apni Rasoi,4.0,"Shop Number-150, Pocket B 6, Rohini Sector 8, Delhi - 110085, Near Swimming Pool",'+(91)-11-32457368
+296,Shree Rathnam Restaurant Pv..,4.0,"G-78, Preet Vihar, Delhi - 110092, Oppsoite Metro Pillar No-101",'+(91)-11-42427771
+297,Shree Rathnam Restaurant,3.8,"Shop Number-C-135,Indirapuram Habitat Center, Ground Floor, Ahinsa Khand 1-indirapuram, Ghaziabad - 201014, Near ATS Advantage",'+(91)-0120-7133022
+298,New Kadimi Food Pvt Ltd,3.9,"A-40, Rajouri Garden, Delhi - 110027, Near Vishal Enclave, Opposite TDI Mall",'+(91)-11-45034900
+299,Shree Rathnam Restaurant,3.8,"Shop No 19 & 20, Paramount Spectrum, Main Road, Crossing Republik, Ghaziabad - 201016, Near Abes Engineering College",'+(91)-0120-2986772
+300,Punjabi Chulha,3.9,"Shop 16, , Sector 21 , Faridabad, Faridabad Sector 21, Faridabad - 121001, Near- Comissioner Office",'+(91)-8800304019
+301,Angithi Pure Veg Soya Chaap,3.8,"E-48, Raj Nagar Ghaziabad, Ghaziabad - 201002, Near Sector 10 Market, Near Ramleela Ground",'+(91)-9268880999
+302,Sagar Ratna Restaurant,4.0,"Galaxie Multiplex Shopping Mall, Main Link Road, Sahibabad Ho, Sahibabad - 201005, Opposite Supertech Apartment, Near Vaishali Metro Station",'+(91)-0120-4373126
+303,Bengal Sweet Corner,3.9,"36, Suman Tower, Central Market, Ashok Vihar 1, Delhi - 110052, Opposite Police Station",'+(91)-11-27417524
+304,Gupta Rasoi,3.5,"Shop.no. Scf-57-58, Sector 17a, HUDA Market, Gurgaon Sector 17, Gurgaon - 122001, Near Axis Atm",'+(91)-124-4011347
+305,Karans Vaishno Dhaba,4.0,"B-13 & 14, Ramesh Nagar, Delhi - 110015, Near Gol Chakkar, Tilak Market",'+(91)-11-25938873
+306,Apni Rasoi,4.0,"Shop No-301,302, Main Railway Road, Laxman Vihar, Gurgaon - 122001, Opposite Apna Enclave",'+(91)-9911114789
+307,Dwarka Restaurant,3.9,"X-59, Ground Floor, West Patel Nagar, Delhi - 110008, Near Kalinga Chowk",'+(91)-11-32972797
+308,New Chappan Bhog,4.0,"C-3/157, Main Road, Yamuna Vihar, Delhi - 110053, Near Jain Mandir",'+(91)-011-22910558
+309,Anand vaishno Dhaba,3.9,"Shop No Wz 53, Dayalsar Road, Uttam Nagar, Delhi - 110059, Near Adarsh Model School",'+(91)-9873489895
+310,Shree Rathnam,3.8,"Shop no-1, KSN Square, Vasundhara Sector 3, Ghaziabad - 201012, Near Vishal Mega Mart",'+(91)-120-33058329
+311,Shubham Eating Corner,3.7,"Shop Number B-19/A, Main Vikas Marg, Shakarpur, Delhi - 110092, Near Metro Pillar Number- 43",'+(91)-11-22523326
+312,Carnatic Cafe,4.3,"32nd Milestone , NH 8, Gurgaon Sector 14, Gurgaon - 122007",'+(91)-9667180466
+313,Aashirwad Restaurant,3.6,"Shop No B -31/125,Gurunanak Pura, Mangal Bazar ROAD, Laxmi Nagar, Delhi - 110092, Behind Maharaja Banquet",'+(91)-011-41112703
+314,Pummy Food Zone,3.9,"Shop No 15, Main Road, Dilshad Garden, Delhi - 110095, Near Shani Mandir, O & P Market",'+(91)-11-47580505
+315,Rumours,3.8,"288,  AGCR Enclave, Karkardooma, Delhi - 110092",'+(91)-9716428428
+316,Chef Panda,3.6,"Shop Number- 5 & 6, 1st Floor, Main Meerut Byepass Road, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017, Near Ajnara Interigrity Building",'+(91)-9540395888
+317,Wah Ji Wah Restaurant,3.8,"Plot Number- 5, Naveen Park, Sahibabad - 201005, Opposite Rajendra Nagar Sector-5",'+(91)-9911975558
+318,Shree Rathnam (Vvip Style M..,3.8,"Vvip Style Mall, 1st Floor, Shop No. 130 to 135, Meerut By Pass Road, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017, Hira Sweets",'+(91)-9773611771
+319,Chadha Bhojnalaya,4.0,"B-3/24, Main Road, Model Town 1, Delhi - 110009, Near Model Town Metro Station",'+(91)-11-27129125
+320,Kamal Dhaba,3.8,"B-19,Mela Plaza, Vasundhara Sector 16, Ghaziabad - 201012, Near Rahul Dairy",'+(91)-0120-2882567
+321,Firangi Cafe,3.8,"Shop 2, 183/1, Sector 28 , Faridabad, Main Link Road, Faridabad Sector 28, Faridabad - 121008",'+(91)-9999831234
+322,Chilliz,4.1,"Shop No-G-12, Gujranwala Town, Delhi - 110009, Near Bablu Kabab",'+(91)-011-45150444
+323,Angna Veg Restaurant,3.9,"Shop No 40 , 1st Floor , D -Block Market, Pitampura, Delhi - 110034, Pushpanjali Enclace",'+(91)-9999564438
+324,Ashu Bhature Wala,4.1,"150, Rohini Sector 8, Delhi - 110085, Near Kendriya Vidyalaya",'+(91)-9899252699
+325,Rajasthani Jeeman Restauran..,4.0,"Plot Number.218, Shakti Khand 2-Indirapuram, Ghaziabad - 201014, Opp D-mall",'+(91)-8957318929
+326,Anna,3.8,"SF-10 2nd Floor, Ansal Palza, Main Road, Palam Vihar, Gurgaon - 122017",'+(91)-9911006611
+327,Shri Hari Restaurant,4.2,"Shop Number J-30B, Main Market Road, Lajpat Nagar 2, Delhi - 110024, Near Center Market",'+(91)-011-46540333
+328,Khana Khazana Restaurant,4.0,"B-24A, Mahavir Enclave, Delhi - 110045, Near Sector-1A, Dashrath Puri",'+(91)-11-25396000
+329,Haveli Restaurant,3.8,"SHOP NO.-28,29,31 Express Garden Market, Shipra Mall Road, Vaibhav Khand-indirapuram, Ghaziabad - 201014, Near Shipra Mall Opposite Habitat Center",'+(91)-120-4160020
+330,Gyans Restaurant,4.0,"Shop  No 28/10, East Patel Nagar, Delhi - 110008, Near Central Market, Opposite Neel Kanth Mandir",'+(91)-011-25815281
+331,Shree Durga Dosa Corner,4.0,"Gh - 14,561, DDA Market, Paschim Vihar, Delhi - 110063",'+(91)-011-25268788
+332,Malik Vegetarian Restaurant,3.9,"13/4A Ward No-1, Mehrauli, Delhi - 110030, Near Mehruli Bus Terminal, Mehrauli Market",'+(91)-8471022254
+333,Amrit Family Rasoi,4.2,"Bg-6, Shop Number  2, Main Road, Paschim Vihar, Delhi - 110063, Dda Market",'+(91)-11-25265565
+334,Maestro Cafe,4.2,"B-14,, Deep Cinema Complex, Ashok Vihar 1, Delhi - 110052, Near Deep Market",'+(91)-9811624972
+335,Rana 3 H Haveli Restaurant,3.7,"1640 A, First Floor, Thana Road, Najafgarh, Delhi - 110043, Near Muthoot Finance",'+(91)-011-64722201
+336,Village The House Of Food,3.8,"B-1, Main Road, Mayur Vihar Phase 1, Delhi - 110091, Near Reliance Fresh , Acharya Niketan",'+(91)-11-22750101
+337,Bunty Dhaba,4.0,"410,, Jheel Khurenja-krishna Nagar, Delhi - 110051, Opposite 310 Bus Stop",'+(91)-9911123730
+338,Wah Ji Wah Restaurant,3.8,"Shop No-1908, Main Road, Chandni Chowk, Delhi - 110006, Opposite Sheesh Ganj Gurudwara",'+(91)-9871138299
+339,Haldirams,4.0,"World Square Mall Ground Floor, Mohan Nagar, Ghaziabad - 201007, Near Narinder Mohan Hospital",'+(91)-8588000869
+340,Gazibo Restaurant,4.0,"Shop No 28 Windsor  Street Market, Nyay Khand 2-Indirapuram, Ghaziabad - 201014",'+(91)-120-4228333
+341,The Brijwasi Restaurant,3.4,"A 89, Kamla Nagar, Delhi - 110007, Bhatiya Chowk",'+(91)-011-23844202
+342,Wah Ji Wah Restaurant,3.9,"Shop Number- A- 36, Main Kanjhawla Road, Budh Vihar Phase 1, Delhi - 110086, Near Axis Bank ATM",'+(91)-11-66992494
+343,New Bangla Restaurant,3.9,"Shop Number 2094/165, Ganesh Pura Road, Tri Nagar, Delhi - 110035",'+(91)-11-27384604
+344,New Raja Vaishno Bhojanalya,3.9,"Plot Number- 1, G T Road, Mohan Nagar, Ghaziabad - 201007, Opposite Sales Tax Barrier",'+(91)-9818297918
+345,Sona Pure Vegetarian Paradi..,4.0,"53 & 54,First Floor,Goverdhan House, Nehru Place, Delhi - 110019, Opposite Sona Sweets",'+(91)-11-41657626
+346,Sagar Ratna,4.1,"One Horizon Center , Gurgaon, Golf Course Road, Gurgaon - 122003",'+(91)-0124-6900009
+347,Rajshree Restaurant And Par..,3.7,"C-1/9, Lal Quator, Main Road, Krishna Nagar, Delhi - 110051, Above Archies Gallery",'+(91)-9999764710
+348,Anupam Restaurant,4.1,"A-32, Faridabad Nit, Faridabad - 121001, B K Chowk, Near Frontier Colony",'+(91)-129-4030706
+349,Ved Dhaba,4.0,"5307, Shree Ram Building, Chandrawal Road, Jawahar Nagar, Delhi - 110007",'+(91)-11-23850931
+350,64 By 6,4.1,"C/O Country Inn & Suites By Carlson, Sahibabad Industrial Area, Ghaziabad - 201010, Near Site 4, Near Vaishali Metro Station",'+(91)-0120-4180000
+351,New Bal Gopal Bhojanalaya,3.8,"E-1/6, Main Road, Pandav Nagar, Delhi - 110092, Near Mother Dairy",'+(91)-9266680777
+352,Cafe Turtle,4.1,"23, 2nd Floor, Middle Lane, Khan Market, Delhi - 110003",'+(91)-11-24655642
+353,Hari Om Rasoi,4.0,"Shop Number 291/5, Main Madan Puri Road, Street Number 5, Old Railway Road, Gurgaon Sector 8, Gurgaon - 122001, Near Pataudi Chowk",'+(91)-0124-6542776
+354,Puratan Family Restaurant,3.9,"Shop Number-202, 2nd Floor, Garg Trade Centre, Rohini Sector 11, Delhi - 110085, Near G3S Cinema Hall",'+(91)-11-43514006
+355,Triveni Restaurant,4.0,"472-B, Dayanand Marg, Jheel Khurenja-Krishna Nagar, Delhi - 110051, Near Tanga Stand",'+(91)-11-22016984
+356,Wah Ji Wah Restaurant,3.9,"Shop Number 149-150, HUDA Market, Gurgaon Sector 56, Gurgaon - 122011, Near Huda Market",'+(91)-124-2571095
+357,Vyanjan Restaurant,4.0,"Shop Number Aj-52, Shalimar Bagh, Delhi - 110088, Opp Dominos",'+(91)-9311113571
+358,Shree Rathnam,3.9,"Hl-5, Jail Road, Hari Nagar, Delhi - 110064, L Block, Opposite Santoshi Mata Mandir",'+(91)-11-41063009
+359,Nakshatra Punjabi Rasoi Res..,4.0,"Shop No-351, Central Aggarwal Plaza, 3rd Floor, Rohini Sector 9, Delhi - 110085, D C Chowk",'+(91)-11-27557474
+360,New Frontier Hotel,4.0,"Shop Number-2, Arya Samaj Road, Ajmal Khan Road, Karol Bagh, Delhi - 110005, Gaffar Market",'+(91)-11-28721620
+361,Akashdeep Restaurant,3.9,"Shop Number-3627,1st Floor, Netaji Subhash Marg, Darya Ganj, Delhi - 110002, Golcha Cinema Corner",'+(91)-11-23271390
+362,Priya Panchavati Restaurant,3.5,"C-11/8, YAMUNA VIHAR, Yamuna Vihar, Delhi - 110053, Near Mcd Daftar,C Block",'+(91)-11-22913104
+363,Shiv Restaurant,3.9,"Booth No-122-123, Huda Market, Faridabad Sector 17, Faridabad - 121002, Near Community Centre",'+(91)-0129-2295356
+364,Wah Bhai Wah,3.9,"Shop Number-101, Faridabad Sector 7, Faridabad - 121006, Near ICICI Bank,Huda Market",'+(91)-129-61495240
+365,Captain Katora,3.8,"Shop Number B 3/43a, Yamuna Vihar, Delhi - 110053, Near Bhajanpura Petrol Pump , B Block",'+(91)-7838955190
+366,Gulab Wala,3.8,"53/5 , Deshbandhu Gupta Road , (Opposite Manas Mandir), Karol Bagh, Delhi - 110005",'+(91)-11-28723939
+367,Wah Ji Wah Restaurant,3.8,"Shop No.9083, Parade Ground, Polo Road, Vijay Nagar, Delhi - 110009, Near Shani Mandir",'+(91)-8750000858
+368,Wah Ji Wah Restaurant,3.8,"Vijay Nagar, Delhi - 110009, Near Shani Mandir",'+(91)-9873416844
+369,Shri Radha Ki Rasoi.,3.5,"Shop Number- 1, Dwarka More, Delhi - 110059, Near Rama Park, Opposite Metro Pillar No 771",'+(91)-011-61495064
+370,Shree Jee Rasoi,3.9,"5, Pratap Bhawan, Bahadur Shah Zafar Marg, Ito, Delhi - 110002, Near Times Of India Passport Office",'+(91)-9818114695
+371,Aapki Rasoi,3.8,"G-13, 14, West Enclave-Pitampura, Delhi - 110034, Near Vardhman Market",'+(91)-011-47557475
+372,Aapki Rasoi,3.8,"Shop No-3207,Mahendra Park, Rani Bagh, Delhi - 110034, Near Fountain Chowk & Kali Mata Mandir",'+(91)-11-64701463
+373,Chinese Inn Restaurant,3.6,"Shop No-13/82, Gurudwara Road, Geeta Colony, Delhi - 110031, Near-Chawla Chicken",'+(91)-9711102233
+374,Cafe 96 Square,3.7,"F-3/20, Krishna Nagar, Delhi - 110051, Near Vijay Chowk",'+(91)-9971264093
+375,Shudh Vaishno Shanker Dhaba,4.3,"Shop 163, A-6 LSC DDA Market Paschim Vihar, Achievers Library, Paschim Vihar, Delhi - 110063, Near Paschim Vihar Sports Complex",'+(91)-9716925114
+376,Vrinda Restaurant,3.6,"E-1, Street Number-5  Main Road, Karawal Nagar, Delhi - 110094, Sadatpur Extension",'+(91)-9711256215
+377,Amritsari Chaap Corner.,4.2,"shop no- 5060/1, Sant nagar, Karol Bagh, Delhi - 110005, adjoining  Khalsa College",'+(91)-9810055621
+378,Shagun Pure Vegetarian Rest..,3.8,"F1/13-14, DDA Market, Sultanpuri, Delhi - 110086, Opp. Bank Of Baroda",'+(91)-9212012024
+379,Jai Shri Krishna,3.9,"Shop No.-09, Main IGNOU Road, Saiyad Ul Ajaib, Delhi - 110030, Opposite Anupam Appartment.",'+(91)-9213813519
+380,SGF - Spice Grill Flame,3.7,"Shop Number 54, Gurgaon Sector 31, Gurgaon - 122001, Near Bank Of Baroda, Huda Main Market",'+(91)-9005565966
+381,Raj Shahi Restaurant,3.8,"Old Railway Road, Laxman Vihar, Gurgaon - 122006, Opp Sneh Hospital, Sector 3A, Gurugram",'+(91)-0124-4072275
+382,Shiv Shankar Restaurant,4.2,"Shop Number-115, Paschim Vihar, Delhi - 110063, Near A 6 Block,LSC DDA Market",'+(91)-7042847243
+383,Wah Ji Wah Restaurant,3.7,"Shop No.4, Village Dundahera, Old Delhi Gurgaon Road, Gurgaon Sector 21, Gurgaon - 122016, Village Dundahera",'+(91)-9910160947
+384,Rasoi A Family Restaurant,3.6,"Plot No-15, Shop Number-1, Extension 1,Budh Bazar Road, Shalimar Garden, Sahibabad - 201005, Near Gate No-8",'+(91)-9718217994
+385,Aashirwad Fine Dining Resta..,3.7,"E-10, Ground Floor, Main 100 Feet Road, Jyoti Nagar West, Delhi - 110032",'+(91)-7840001326
+386,THE Veggie BITES,4.2,"B-304, Saraswati Vihar, Outer Ring Road, Pitampura, Delhi - 110034, Near C-Block Bus Stand",'+(91)-8377803803
+387,Moms Kitchen,3.4,"U 8/43, DLF City Phase 3, Gurgaon - 122010, Metro Station Gate No. 2",'+(91)-9999605756
+388,Sultanat Pure Veg Lounge & ..,3.8,"31 B C, Ground Floor, Aditya Mega Mall, Karkardooma, Delhi - 110092, Near Crossriver Mall",07947218359
+389,Bhai Sweets Restaurant,3.7,"Scf-46, Faridabad Sector 3, Faridabad - 121004, Near Huda Market",'+(91)-129-2304950
+390,Moti Mahal Delux Tandoori T..,4.1,"1644 C, Thana Road, Najafgarh, Delhi - 110043",'+(91)-9654740005
+391,Hum Sabki Rasoi,3.9,"S-1/68, Tilak Nagar, Delhi - 110018, Near Old Mahavir Nagar, Near JMD Auto",'+(91)-11-65583218
+392,Rasoi Deliver,3.7,"Shop Number K- 4, Indirapuram, Ghaziabad - 201014, Near Windsor Street Market & SPS Complex",'+(91)-9910025216
+393,Apna Dhaba,4.1,"BE-335 A, Main Road, Hari Nagar, Delhi - 110064, Opposite Vikrant Enclave",'+(91)-11-25122134
+394,Bikaners Sweets Snacks And ..,3.5,"Shop No-25,26,27,Arcade-A, Princely Estate, Noida Sector 76, Noida - 201304, Opposite Silicon City Gate No -2",'+(91)-7065025032
+395,Hari Om Bhojnalaya,4.0,"30/9, Main Road, Karawal Nagar, Delhi - 110094, Near Mangal Bazar & Gola Factory, Prem Nagar",'+(91)-9990307360
+396,Amritsari Express,3.8,"Shop Number 28, Road Number 44, Rani Bagh, Delhi - 110034, Opposite Chunmun Mall",'+(91)-8010009023
+397,Moti Mahal Delux,3.9,"157, Ground Floor, Kapil Vihar, Pitampura, Delhi - 110034, Oppoiste  Metro Pillar No",'+(91)-011-33105741
+398,Veer ji Malai Chaap Wale,3.9,"Shop 3, Plot 5, Local Shopping Complex, Rishabh Vihar, Karkardooma, Karkardooma, Karkardooma, Delhi - 110092, Near Karkardooma Court",'+(91)-9999902373
+399,Cross Town Restaurant,4.0,"Plot No-188, G T Road, Achheja, Noida - 203207, Near Hero Motors",'+(91)-9015213280
+400,The Kulchas,4.2,"Plot Number A 71,  Shop Number 1, Kalkaji, Delhi - 110019, Opposite HDFC Bank, Double Story",'+(91)-7303514747
+401,Gurdasmaan Punjabi Khana & ..,4.0,"Shope No-D-1/17, Rohini Sector 15, Delhi - 110089, Near Manav Chowk",'+(91)-9999402559
+402,Aam Aadmi Ke Pakwaan,3.8,"No 21 Ub, Momos Point Gali, Kamla Nagar, Delhi - 110007, Near Jawahar Nagar",'+(91)-8168300129
+403,The Food Lounge Restaurant,4.0,"Plot No 09, Patpar Ganj Road, Shivpuri, Delhi - 110051, Near Dominos",'+(91)-9999123413
+404,Spice Grill Flame,3.1,"Shop No-73, Ground Floor, Vikas Marg, Laxmi Nagar, Delhi - 110092, Near Metro Pillar Number 50",'+(91)-7834907102
+405,Food Plus,4.0,"WA-141, Krishna Mandir Road, Shakarpur, Delhi - 110092, Near Krishna Mandir",'+(91)-11-22502065
+406,Petu Ram,4.3,"Plot No-400, Main Road Bawana, Pooth Khurd, Delhi - 110039, Near G R International School",'+(91)-8860601360
+407,Madras Cafe,3.9,"C-30, Shop Number-6, Madhu Vihar-patparganj, Delhi - 110092, Near Nirvana Society",'+(91)-9716407807
+408,Delhi 6,3.9,"WZ-54-A/3, Budhela Village-Vikaspuri, Delhi - 110018, Near Central Market",'+(91)-9999407408
+409,Chaska Food Corner,4.0,"11820, Panchshell Park, Main Road, Delhi - 110053, Shahdara",'+(91)-9811148161
+410,Friends Restaurant,3.7,"27A, Rajender Nagar Market, Old Rajender Nagar, Delhi - 110060, Near Main Market, Opposite Syndicate Bank",'+(91)-011-42430443
+411,Break Time,3.7,"3B-4,BP, Main Road, Faridabad NIT, Faridabad - 121001, Near Dav College",'+(91)-129-4175050
+412,Kuteer Restaurant,3.6,"Khasra Number 303/2, Delhi Road, Bawana, Delhi - 110039, Main Bus Stand",'+(91)-9313996851
+413,Shri Hari Sharnam Restauran..,4.1,"1490-91, Kashmere Gate, Delhi - 110006, Near Ritz Cinema",'+(91)-11-23867593
+414,Sanskriti Foods,3.8,"Shop Number 2, Noida Sector 51, Noida - 201307, Near Hoshiyarpur Red Light, Main Market, Near City Pride",'+(91)-9891068519
+415,Sagar Ratna,3.7,"Hall Number-5, Tower-E, Crossing Republik, Ghaziabad - 201016, Near Bank Of Baroda, Gaur Global Village",'+(91)-120-2986550
+416,Royal Restaurant,4.0,"Shop Number-81, Connaught Place, Delhi - 110001, Municipal Market",'+(91)-11-23411338
+417,Kerala Dosa House,3.5,"Shop Number 2350, 7/8 Dividing Road, Faridabad Sector 7a, Faridabad - 121006, Near Vodafone Mini Store",'+(91)-129-4010179
+418,Manwhar,3.9,"Shop Number-5, GT Road, Kamla Nagar, Delhi - 110007, Roop Nagar",'+(91)-11-23848995
+419,Shree Banke Foods,4.0,"9/24, Shivpuri, Shivpuri-Chandar Nagar, Delhi - 110051, Near Labour Chowk",'+(91)-9136000234
+420,Suganya Restaurant,3.9,"BA/38a, BA Block, Main Road, Janakpuri, Delhi - 110058, Near Chhoti Sabzi Mandi",'+(91)-9811060436
+421,Mr Singhs Tandoori Hut,4.0,"5d/110, Faridabad NIT, Faridabad - 121001, Opposite Bijli Ghar",'+(91)-129-4026600
+422,The Masala Trail (Ansal Pla..,3.9,"B Block, 104,First Floor, Ansal Plaza Mall, Anshal Plaza Moll, Khel Gaon, Delhi - 110049, Nr-HUdko Place",'+(91)-011-49093717
+423,Chaudhary Restaurant,3.8,"Shop No - 24, Faridabad Sector 15, Faridabad - 121007, Near Police Post",'+(91)-129-2280295
+424,Tiffynn,4.1,"Shop No.1, DDA Market, Vasundhara Enclave, Delhi - 110096, Nr.agrsaen College",'+(91)-9315114043
+425,Radha Ki Rasoi,3.3,"Rzn-D-184, Paschim Enclave, Delhi - 110087, Near Peera Garhi Metro Station,Opposite Maiden Crown Banquet Hall",'+(91)-9953143384
+426,Shudh Restaurant,3.7,"C-17,18 Basement, Vasundhara, Ghaziabad - 201012, Near Sector-15, State Bank Of India",'+(91)-9999672266
+427,Ghanshyam Veshno Hotel,3.8,"Shop No 76 A, Railway Station Road, Ghanta Ghar, Ghaziabad - 201001, Opposite Jain Mandir, Choti Bazariya",'+(91)-7053079085
+428,Annapurna Pure Veg,4.0,"3/C/185, Faridabad Nit, Faridabad - 121001, Near Police Post Number 3",'+(91)-9999938600
+429,Captain Food Factory,4.0,"1620-B/2, Thana Road, Telephone Exchange Street, Najafgarh, Delhi - 110043, Opposite Hdfc Bank",'+(91)-9911583555
+430,Shree Ratans A Pure Veg Fin..,4.0,"U-59, Lampur Road, Narela, Delhi - 110040, Near Under Pass/ Railway Station & Bus Terminal",'+(91)-11-27283030
+431,Choudhary Dhaba,3.8,"Sector 132 Rohillapur, Noida Sector 132, Noida - 201304, Main Tomar Market, Near Step By Step School",'+(91)-7065464732
+432,Choudhary Dhaba,3.8,"Shop No-1 & 2, Noida Sector 132, Noida - 201304, Opposite Step By Step School",'+(91)-8700684672
+433,Balaji Restaurant,3.8,"Krishna Park, Devli Road, Sangam Vihar, Delhi - 110044",'+(91)-9818641962
+434,Sankalp Restaurant,3.8,"P- 15, Connaught Place, Delhi - 110001, Near Central",'+(91)-9811216447
+435,Punjabi Zaika,4.0,"1/5060 Buliding No., Desh Bandhu Gupta Road, Karol Bagh, Delhi - 110005, Near Khalsa College,Sant Nagar",'+(91)-11-64004802
+436,Shudh Vaishno Hotel,4.1,"T- 32,33,34, Karampura, Delhi - 110015, Super Market,Opposite Milan Cinema,New Moti Nagar",'+(91)-11-45095200
+437,Radha Swami Vaishno Dhaba,4.1,"C 23, Uttam Nagar, Delhi - 110059, Near East Opposite Pali Factory",'+(91)-9250835166
+438,Shri Krishna Dhaba,3.9,"26B/12 , Desh Band Gupta Road , Anand Parvath, Karol Bagh, Delhi - 110005, Near Karol Bagh , New Delhi",'+(91)-011-28716748
+439,Gopi Vaishno Dhaba,3.2,"Plot No 619/7, Main Road, Chattarpur, Delhi - 110074, Truck Market, Opposite Tivoli Garden",'+(91)-9971029036
+440,Bhola Dhaba.,3.7,"Shop Number-1, Hospital Road, Bhogal, Delhi - 110014, Near Guru Nanak Market,Jangpura.",'+(91)-9810913747
+441,New Utsav Rasoi,3.7,"B - 118, Shiv Mandir Road, Swaroop Nagar, Delhi - 110042, Near Shiv Mandir",'+(91)-9999469828
+442,Bollywood Masala,3.7,"E-4/7, Krishna Nagar, Delhi - 110051, Near Goyal Nursing Home",'+(91)-11-64647999
+443,Sagar Ratna (DLF Place Mall..,3.9,"2nd Floor,Food Cout , Dlf Place Mall, Saket, Delhi - 110017",'+(91)-8700751733
+444,Chacha Ka Dhaba,3.3,"Shop Number- AM 03, Ansal Commercial Complex, Main Road, Omega 1, Noida - 201310, Near Alpha Golf Link 1st, Near Evergreen Sweets",'+(91)-8882999309
+445,Saini Foods,3.4,"Shop No-1,Kaushik Complex, Gurgaon Sector 17, Gurgaon - 122001, Near Discovery Wine Shop &  IFFCO Chowk",'+(91)-9999679641
+446,Pandit Ji Amritsari Kulcha ..,4.1,"RU- 22, Pitampura, Delhi - 110034, Opposite Power House, New Delhi",'+(91)-9899697499
+447,Sagar Rathnam Restaurants P..,3.7,"3F, Ground Floor, Kamla Nagar, Delhi - 110007, Near Bada Gol Chakkar",'+(91)-11-23845234
+448,The Brijwasi Restaurant,4.0,"Shop Number-379, Main Road, Chandni Chowk, Delhi - 110006, Near Bikanerwala",'+(91)-011-23986090
+449,New Family Kailash Bhojnaly..,4.1,"A-10 /, Nasirpur Fatak Road, Ashok Nagar Ghaziabad, Ghaziabad - 201001, Near Holichild School",'+(91)-9717859722
+450,Dosa Junction,4.1,"Surajkund Road, Surajkund, Faridabad - 121009, Near Eros Garden, Near 1st Indian Oil Petrol Pump, Charmswood Village",'+(91)-9717494200
+451,Soni Bhojnalaya,4.2,"161, Kuncha Ghasi Ram, Fatehpuri, Delhi - 110006, Near Fatehpuri Maszid",'+(91)-11-23981331
+452,Satyam Vegetarian,3.9,"93, Sri Aurobindo Marg, Adchini-sarvodaya Enclave, Delhi - 110017, Near IIT Campus",'+(91)-011-69996666
+453,Om Bhojnalaya,4.0,"Plot Number 12, Beta 1-greater Noida, Noida - 201310, Near Rampur Market, Opposite Authority, Rampur Jagir",'+(91)-9718182544
+454,Nbc Restaurant,4.1,"Shop No.2 , Building Number 1644/B, Thanna Road, Najafgarh, Delhi - 110043, Near Vikas Hospital , B Block",'+(91)-9540590213
+455,Bunty Chaap Tandoori Juncti..,3.7,"Shop No-7 , Second Floor, Galleria Market-1, Crossing Republik, Ghaziabad - 201016, Near Golf Course",'+(91)-9773906647
+456,Southern Treat Pure Veg Fam..,3.5,"Shop Number-B1/31, Noida Sector 50, Noida - 201307, Near Noida City Centre, Central Market",'+(91)-120-4270372
+457,Satguru Dhaba,3.9,"Shop No-18/52,Grd Flr, East Patel Nagar, Delhi - 110008, Nr Neel Kanth Mandir",'+(91)-011-25730853
+458,Rajesh Food Point (Pure Veg..,4.2,"B-4 Syndicate Enclave, Dabri, Delhi - 110045, Opp.pankha Road",'+(91)-9211778706
+459,Shree Shyam Rasoi And Cater..,3.8,"Shop Number 8, Dharam Colony, Palam Vihar Road, Gurgaon - 122017, Opposite Power House",'+(91)-9899303302
+460,A Dilli Restaurant,3.9,"A-6, Loni, Ghaziabad - 201102, Near Ram Park, Near Saharanpur Road",'+(91)-9910253337
+461,Chamunda Cafe,3.8,"Shop No-22, Okhla Industrial Area Phase 3, Delhi - 110020, Near Moser Bear 43b",'+(91)-11-26916823
+462,Sagar Ratna,4.0,"R1 , 2 & 4 , Gulmohar Shopping Complex , Sector 15 C, Noida Sector 15, Noida - 201301",'+(91)-120-4212355
+463,Gupta Sweet Corner,3.9,"129, Bangla Sahib Marg, Connaught Place, Delhi - 110001, Near Gol Market",'+(91)-11-23363954
+464,Balji Rasoi,3.8,"House No-467, Madanpuri Gurgaon, Gurgaon - 122006, Opposite Gali No-4",'+(91)-9312041712
+465,ASAP - As Spicy As Possible,4.0,"Shop No. 16, Garden Galleria Market, Noida Sector 46, Noida - 201303",'+(91)-9331933162
+466,Mr-Nitin,3.6,"Shop Number-27/94 B, Shahdara, Delhi - 110032, Near Vishwas Nagar ,  Jwala Nagar , Tikona Park",'+(91)-11-61495119
+467,Dhaba Nh-10,3.8,"E -53 PHASE -2 First FLOOR, MAIN ROHTAK ROAD, Nangloi, Delhi - 110041, OPP METRO PILLAR NO-417",'+(91)-8285595595
+468,Sardar Ji Malai Chap Wale,3.6,"Shop Number 24, Crossing Republik, Ghaziabad - 201016, Near Panchsheel Well Bazaar, Near By Airtel Office",'+(91)-9355307072
+469,Bal Gopal Pure Vegetarian,4.1,"Shop Number 46, Rajouri Garden, Delhi - 110027, Near Ansal Plaza Building,Dda Market",'+(91)-11-25971078
+470,Wah Ji Wah Restaurant,3.4,"Shop Number 2, Main Surajkund Road, Faridabad Sector 41, Faridabad - 121010, Near Sector 41-42, Opposite Omaxe Forest Spa",'+(91)-129-33105728
+471,Anna South Indian Fast Food,4.1,"Shop Number-8, Ground Floor, Main Road, Lajpat Nagar 1, Delhi - 110024, Opposite Anand Chole Bhature, Main Krishna Market",'+(91)-9811747746
+472,Kumar Punjabi Dhaba,3.8,"Site-1/608, Vikaspuri Road, Vikaspuri, Delhi - 110018, Near Vikaspuri Mod",'+(91)-9718774620
+473,A One Family Restaurant,4.0,"B 41, Sector 1 Complex, Imt Manesar, Gurgaon - 122052, Near Savoy Suites",'+(91)-9953329741
+474,Gulati Dhaba,4.1,"Wz-62/D, Janakpuri, Delhi - 110058, Passangi Pur Market, Near Durga Mandir",'+(91)-9811398212
+475,Brijwasi Bhoj,4.0,"Shop Number - 376, Main Road, Chandni Chowk, Delhi - 110006, Outside Kuncha Ghasi Ram",'+(91)-11-23971376
+476,Vanakkam Madras Cafe,4.0,"Shop No 1, H Block, Vikaspuri, Delhi - 110018, DDA Market, Near K R Mangalam School",'+(91)-9868020232
+477,Peturams Pure Veg,4.0,"Add : Plot Number 180/5, Main Road, Vasundhara Sector 16, Ghaziabad - 201012, Near Agrasen Chowk",'+(91)-9873944772
+478,Sonu Shuddh Bhojnalaya,3.6,"B-1/ 1b, Janta Flats, Mayur Vihar Phase 3, Delhi - 110096, Gd Colony, Main Market, Near Ryan International School",'+(91)-9910110694
+479,Sehdev Saini Dhaba,4.0,"Saba Appartment, Main Dadri Road, Noida Sector 44, Noida - 201303, Near Village Chhelera, Near Sheetal Petrol Pump",'+(91)-9213268190
+480,Asharam Foods,4.3,"Shop Number-755, Chandni Chowk, Delhi - 110006, Near Katra Asharfi, Opposite Townhall",'+(91)-11-41523612
+481,Bikano Point,3.9,"Shop No-C-9/32, Rohini Sector 15, Delhi - 110089, Near Manav Chowk",'+(91)-8447828002
+482,Aggarwal Sweets Corner,4.1,"3/33, Double Storey, Shivaji Marg, Tilak Nagar, Delhi - 110018, Opposite Metro Station Gate No 2",'+(91)-011-45601816
+483,Sugandh Vegetarian Restaura..,4.2,"4702/21, Ansari Road, Darya Ganj, Delhi - 110002, Near HDFC Bank",'+(91)-11-23273578
+484,Mainis Green Leaf,4.0,"201-202 , Second Floor , Unity One Mall , CBD Ground, Shahdara, Delhi - 110032",'+(91)-011-66992588
+485,Rasam Kitchen Restaurant,3.7,"D 33, Shyam Park Extension, Sahibabad - 201005, Near Diwakar Model School",'+(91)-120-71565154
+486,Wah Ji Wah Restaurant,3.5,"B-23, New Krishna Park, Vikaspuri, Delhi - 110018, Near Janakpuri West Metro Station",'+(91)-011-66992211
+487,Cue Restaurant,4.2,"131, 1st Floor Mangalam Paradise Mall, Rohini Sector 3, Delhi - 110085, Near Kali Mata Mandir Deepali Chaowk",'+(91)-7678344864
+488,Shree Ram Palace,3.9,"Shop Number-7,, K Pocket, Sheikh Sarai 2, Delhi - 110017, Near Nera Transport Authority,Lsc Market",'+(91)-011-29250303
+489,Gopalaa Restaurant,3.8,"Shop Number- F- 24/69, Main Sector 6 & 7 Dividing Road, Rohini Sector 7, Delhi - 110085, Near Ayodhya Chowk",'+(91)-8459756336
+490,PCC - Punjabi Chaap Corner,3.2,"9, Community Center, Ashok Vihar Phase 2, Gurgaon - 122006, Opposite Satyawati College",'+(91)-11-65475557
+491,Madras Cafe,4.0,"Shop Number-15-B/5, DDA MARKET, Rohini Sector 8, Delhi - 110085, Near Prestige Convent School",'+(91)-011-66103950
+492,Punjabi Jaika,3.9,"C- 57, Central Market, Lajpat Nagar 2, Delhi - 110024, Near Lava Care",'+(91)-011-29813040
+493,Chimney Pure Veg,3.8,"JF 847, Gtb Enclave, Delhi - 110093, Near GTB Hospital, Dilshad Garden",'+(91)-9582440888
+494,Kiara Soul Kitchen,4.3,"M-30 1st Floor, Greater Kailash 2, Delhi - 110048, M Block Main Market",'+(91)-11-40367904
+495,Mota Ram De Chatpate,3.4,"Plot 79,, Pocket 10, Rohini Sector 20, Delhi - 110086, Sunday Bazar Road Royal Market",'+(91)-9211925664
+496,Dawat Restaurant,4.0,"C-2/9, Prashant Vihar, Delhi - 110085",'+(91)-011-41447262
+497,Pappu Di Hatti,3.6,"Shop No-C-2/11 12 13 14, Mangolpuri, Delhi - 110083, Dda Market",'+(91)-9971362165
+498,Vaango,3.6,"1St Floor,Cyber Hub,Food Court, Dlf Cyber City, Gurgaon - 122002",'+(91)-124-4945923
+499,Jhil Mil Food Point,3.8,"Shop Number RZA-6, Palam Dabri Road, Dabri Extension, Delhi - 110045, Opposite Dada Dev Hospital",'+(91)-11-47023654
